@@ -1,0 +1,17 @@
+/*
+ * CS 3744 Fall 2023
+ * Project 1
+ * Item CSS Source Code
+ *
+ * Author: Shreya Ashok Kumar
+ * Version: 1.0
+*/
+.Box {
+    width: 45px;
+    height: 80px;
+    border-radius: 2px;
+    position: absolute;
+    fill: none;
+    stroke: black;
+    stroke-width: 0.1px;
+}
