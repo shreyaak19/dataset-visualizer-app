@@ -1,3 +1,8 @@
+# dataset-visualizer-app
+React web app where users can upload, edit, and save their datasets, and programmatically view its visualizations like bar charts and graphs
+Visualizations rendered using D3.js
+Utilized Web Storage API to seamlessly store datasets, with persisting changes across browser sessions (using Web Storage API to store data across browser sessions)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
